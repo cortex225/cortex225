@@ -9,41 +9,53 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi, I'm Jean-Luc Gouaho 👋</h1>
+
+<p align="center"><b>Full-stack AI developer</b> · AI agents, automation and Azure · Quebec, Canada · FR / EN</p>
+
+<p align="center">
+  <a href="https://www.jlgouaho.com"><b>Portfolio</b></a> ·
+  <a href="https://www.jlgouaho.com/en/blog"><b>Blog</b></a> ·
+  <a href="https://business.jlgouaho.com"><b>Services</b></a>
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About me</h3>
+
+- 🤖 I build AI agents and automations that serve the business: a Copilot Studio assistant and n8n workflows at Evnia, AI matching in RecruitEasy, LLMs shipped to production in my own apps.
+- 🚀 Founder of [RecruitEasy.ca](https://recruiteasy.ca), an AI-assisted applicant tracking system for small recruiting firms.
+- ☁️ Cut Azure costs by 78% at Royal Broker; built a Python ATS that screens 4,000+ resumes in seconds.
+- 🛠 Main stack: .NET / C#, Next.js, TypeScript, React, Azure, n8n.
+- 💬 Open to AI-focused full-stack roles (remote or hybrid) and to automation projects for small businesses.
 
 ###
 
-<p align="left">I'm Jean-Luc Gouaho from Canada<br><br>- 🔭 I’m working as fullStack developper<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I wor on RecruitEase</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My stats</h3>
 
 ###
 
